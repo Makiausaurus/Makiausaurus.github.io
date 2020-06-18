@@ -4,12 +4,12 @@
 
     @font-face {
         font-family: PTSansNarrow;
-        src: url(assets/font/ptsansnarrow_regular.ttf);
+        src: url(../font/ptsansnarrow_regular.ttf);
     }
 
     @font-face {
         font-family: PTSansBold;
-        src: url(assets/font/ptsansnarrow_bold.ttf);
+        src: url(..//font/ptsansnarrow_bold.ttf);
     }
 
     @media (min-width: 992px) and (max-width: 1400px) {
@@ -85,6 +85,10 @@
     hr {
         border-color: #A38DCA;
 
+    }
+
+    section>ul>li {
+        font-size: 23px;
     }
 
     @media (min-width: 1400px) {
