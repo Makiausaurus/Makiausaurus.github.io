@@ -1,3 +1,7 @@
+    html {
+        scroll-behavior: smooth;
+    }
+
     body {
         font-family: PTSansNarrow, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
@@ -126,10 +130,39 @@
             max-width: 75rem;
             min-height: 100vh;
         }
+
+        section.passtime {
+            height: auto;
+        }
     }
 
     div.skill>hr {
+        margin-left: 0px;
         border-color: #A38DCA;
+    }
+
+    div.html5 {
+        width: 80%;
+    }
+
+    div.css3 {
+        width: 65%;
+    }
+
+    div.js {
+        width: 60%;
+    }
+
+    div.bootstrap {
+        width: 70%;
+    }
+
+    div.php {
+        width: 40%;
+    }
+
+    div.sql {
+        width: 55%;
     }
 
     h1 {
