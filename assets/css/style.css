@@ -142,27 +142,27 @@
     }
 
     div.html5 {
-        width: 80%;
+        width: 80% !important;
     }
 
     div.css3 {
-        width: 65%;
+        width: 65% !important;
     }
 
     div.js {
-        width: 60%;
+        width: 60% !important;
     }
 
     div.bootstrap {
-        width: 70%;
+        width: 70% !important;
     }
 
     div.php {
-        width: 40%;
+        width: 40% !important;
     }
 
     div.sql {
-        width: 55%;
+        width: 55% !important;
     }
 
     h1 {
