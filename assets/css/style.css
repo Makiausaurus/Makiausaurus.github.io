@@ -3,6 +3,7 @@
     }
 
     body {
+        background-color: #fff6f8;
         font-family: PTSansNarrow, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
 
@@ -214,7 +215,7 @@
     }
 
     div.progress {
-        height: 25px;
+        height: 30px;
         background: rgba(247, 215, 217, 0.466);
     }
 
